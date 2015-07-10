@@ -1,4 +1,4 @@
-
+<!--My name is listed below in Variable code-->;
 var firstAndLastName = "Josh Goshen";
 console.log(firstAndLastName);
 var classAndSection = "Scalable Data Infrastructures 1-Online, Section 01";
@@ -25,3 +25,6 @@ console.log(iLoveChallenges);
 var iQuitWhenThingsGetTough= false
 console.log("I QUIT when things get tough");
 console.log(iQuitWhenThingsGetTough);
+var iAmGoingToGetALotBetterAtGitHub= true;
+console.log("I am going to get a lot better at GitHub");
+console.log(iAmGoingToGetALotBetterAtGitHub);
