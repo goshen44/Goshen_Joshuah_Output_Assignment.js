@@ -16,12 +16,3 @@ console.log(myDaughterIsHowOld);
 console.log ("How many dogs do I have")
 var howManyDogsDoIHave=2
 console.log(howManyDogsDoIHave);
-var itIsHardWhenYouFirstStartProgramming= true;
-console.log ("It is hard when you first start Programming");
-console.log(itIsHardWhenYouFirstStartProgramming);
-var iLoveChallenges= true;
-console.log("I Love Challenges");
-console.log(iLoveChallenges);
-var iQuitWhenThingsGetTough= false
-console.log("I QUIT when things get tough");
-console.log(iQuitWhenThingsGetTough);
